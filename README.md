@@ -450,17 +450,17 @@ MIT License — xem file [LICENSE](LICENSE).
 
 ## 👤 Tác giả
 
-**Nguyễn Thị Bích Trâm**
-
+**Nguyễn Thị Bích Trâm - 24IT277**
+**Trần Văn Tri - 24IT283**
 - 🎓 Sinh viên ngành Công nghệ Thông tin
 - 📚 Môn: Lập trình mạng
-- 📅 Năm học: 2025-2026
+- 📅 Năm học: 2026-2027
 
 ---
 
 ## 🙏 Cảm ơn
 
-- Thầy hướng dẫn môn Lập trình mạng
+- Thầy ThS. Nguyễn Thanh Cẩm - Giảng viên hướng dẫn môn Lập trình mạng
 - Cộng đồng Java Việt Nam
 
 ---
