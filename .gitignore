@@ -1,0 +1,40 @@
+# ── Compiled files ──
+bin/
+*.class
+*.jar
+!lib/*.jar
+
+# ── IDE / Editor ──
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs / Temp ──
+*.log
+logs/
+tmp/
+temp/
+
+# ── Test files ──
+test-request.txt
+TestHttp.java
+TestHttp.class
+
+# ── Database exports ──
+*.sql.bak
+backup.sql
+
+# ── Sensitive ──
+*.env
+secrets.properties

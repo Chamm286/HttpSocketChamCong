@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Server",
+            "request": "launch",
+            "mainClass": "com.httpchamcong.server.HttpSocketServer",
+            "projectName": "HttpSocketChamCong"
+        },
+        {
+            "type": "java",
+            "name": "Run Client JavaFX",
+            "request": "launch",
+            "mainClass": "com.httpchamcong.client.ClientApp",
+            "projectName": "HttpSocketChamCong",
+            "vmArgs": "--module-path lib/javafx-sdk-21.0.5/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test DB Connection",
+            "request": "launch",
+            "mainClass": "com.httpchamcong.dao.DBConnection",
+            "projectName": "HttpSocketChamCong"
+        }
+    ]
+}

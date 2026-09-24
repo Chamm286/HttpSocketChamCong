@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib/ikonli-*.jar",
+        "lib/javafx-sdk-21.0.5/lib/*.jar"
+    ],
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true,
+    "java.debug.settings.console": "internalConsole"
+}
